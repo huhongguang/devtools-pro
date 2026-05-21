@@ -2,8 +2,11 @@ import { useState, useCallback } from 'react'
 import { Copy, Check, Download, RotateCcw } from 'lucide-react'
 import { useTranslation } from 'react-i18next'
 import { copyToClipboard, downloadText } from '@/lib/utils'
-import { CATEGORIES, type Category } from '@/lib/tools'
+import { CATEGORIES, TOOLS, type Category } from '@/lib/tools'
 import ShareBookmarkBar from './ShareBookmarkBar'
+import SEOHead from '@/components/seo/SEOHead'
+
+const SITE_URL = 'https://devtools-ashy-nine.vercel.app'
 
 interface ToolLayoutProps {
   name: string
@@ -16,8 +19,24 @@ interface ToolLayoutProps {
 export function ToolLayout({ name, description, category, toolId, children }: ToolLayoutProps) {
   const { t } = useTranslation('common')
   const cat = CATEGORIES[category]
+  const tool = TOOLS.find(t => t.id === toolId)
+  const keywords = [...(tool?.keywords ?? []), 'devtools', 'online tool']
+  const seoDescription = `${description}. Free online ${cat.label.toLowerCase()} tool — no signup, works in your browser.`
+  const canonicalPath = `/tools/${toolId}`
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'WebApplication',
+    name,
+    description: seoDescription,
+    url: `${SITE_URL}${canonicalPath}`,
+    applicationCategory: 'DeveloperApplication',
+    operatingSystem: 'Any',
+    offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+  }
+
   return (
     <div className="flex flex-col h-full animate-fade-in">
+      <SEOHead title={`${name} — DevTools Pro`} description={seoDescription} canonicalPath={canonicalPath} keywords={keywords} jsonLd={jsonLd} />
       <div className="border-b border-border px-6 py-4 flex items-center gap-3">
         <div>
           <div className="flex items-center gap-2 mb-0.5">

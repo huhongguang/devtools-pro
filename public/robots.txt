@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /locales/
+
+Sitemap: https://devtools-ashy-nine.vercel.app/sitemap.xml

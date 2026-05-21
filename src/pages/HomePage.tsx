@@ -2,8 +2,18 @@ import { useNavigate } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import { TOOLS, CATEGORIES, type Category } from '@/lib/tools'
 import { Zap, TrendingUp } from 'lucide-react'
+import SEOHead from '@/components/seo/SEOHead'
 
+const SITE_URL = 'https://devtools-ashy-nine.vercel.app'
 const categoryOrder: Category[] = ['format', 'encode', 'generate', 'convert', 'text', 'web']
+
+const homeJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'DevTools Pro',
+  url: SITE_URL,
+  description: 'Free online developer tools — JSON formatter, Base64, regex tester, JWT decoder, timestamp converter and 15+ more tools for developers.',
+}
 
 export default function HomePage() {
   const navigate = useNavigate()
@@ -12,6 +22,13 @@ export default function HomePage() {
 
   return (
     <div className="flex flex-col h-full overflow-y-auto scrollbar-thin">
+      <SEOHead
+        title="DevTools Pro — 20 Free Developer Utilities"
+        description="Free online developer tools — JSON formatter, Base64, regex tester, JWT decoder, timestamp converter and 15+ more. All run locally in your browser, no signup required."
+        canonicalPath="/"
+        keywords={['developer tools', 'online tools', 'json formatter', 'base64', 'regex', 'jwt', 'hash', 'uuid', 'password generator']}
+        jsonLd={homeJsonLd}
+      />
       {/* Hero */}
       <div className="border-b border-border">
         <div className="max-w-7xl mx-auto w-full px-8 py-10">
