@@ -95,7 +95,7 @@ export default function Sidebar({ darkMode, onToggleDark }: SidebarProps) {
   return (
     <aside className="flex flex-col w-60 h-screen border-e border-border bg-background flex-shrink-0 overflow-hidden">
       {/* Logo */}
-      <div className="flex items-center gap-2.5 px-4 py-4 border-b border-border">
+      <div className="flex items-center gap-2.5 px-4 py-4 border-b border-border cursor-pointer hover:bg-muted/50 transition-colors" onClick={() => navigate('/')}>
         <div className="w-7 h-7 rounded-lg gradient-brand flex items-center justify-center flex-shrink-0">
           <Zap size={14} className="text-white" />
         </div>

@@ -3,3 +3,4 @@ dist/
 .vercel-tmp/
 .vercel/
 *.tsbuildinfo
+.vercel
