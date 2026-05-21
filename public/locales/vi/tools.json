@@ -1,0 +1,30 @@
+{
+  "categories": {
+    "encode": "Mã hóa/Giải mã",
+    "format": "Định dạng/Phân tích",
+    "generate": "Tạo",
+    "convert": "Chuyển đổi",
+    "text": "Văn bản",
+    "web": "Web/Mạng"
+  },
+  "json-formatter": { "name": "Định dạng JSON", "description": "Định dạng, xác thực và thu nhỏ dữ liệu JSON" },
+  "base64": { "name": "Base64", "description": "Mã hóa và giải mã chuỗi Base64" },
+  "timestamp": { "name": "Dấu thời gian", "description": "Chuyển đổi Unix timestamp sang ngày tháng" },
+  "regex-tester": { "name": "Kiểm tra Regex", "description": "Kiểm tra và gỡ lỗi biểu thức chính quy" },
+  "url-encode": { "name": "Mã hóa URL", "description": "Mã hóa và giải mã các thành phần URL" },
+  "hash-generator": { "name": "Tạo Hash", "description": "Tạo hash MD5, SHA-1, SHA-256" },
+  "jwt-decoder": { "name": "Giải mã JWT", "description": "Giải mã và kiểm tra cấu trúc JWT Token" },
+  "cron-parser": { "name": "Biểu thức Cron", "description": "Phân tích và giải thích biểu thức Cron" },
+  "uuid-generator": { "name": "Tạo UUID", "description": "Tạo hàng loạt UUID v4" },
+  "html-escape": { "name": "Escape HTML", "description": "Escape và unescape ký tự đặc biệt HTML" },
+  "color-converter": { "name": "Chuyển đổi màu", "description": "Chuyển đổi giữa HEX, RGB, HSL" },
+  "number-base": { "name": "Hệ số đếm", "description": "Chuyển đổi giữa hệ 2/8/10/16" },
+  "yaml-json": { "name": "YAML ↔ JSON", "description": "Chuyển đổi hai chiều YAML và JSON" },
+  "markdown-preview": { "name": "Xem trước Markdown", "description": "Render Markdown theo thời gian thực" },
+  "code-formatter": { "name": "Định dạng code", "description": "Làm đẹp và thu nhỏ JS/CSS/HTML" },
+  "text-diff": { "name": "So sánh văn bản", "description": "So sánh hai đoạn văn bản và làm nổi bật sự khác biệt" },
+  "image-base64": { "name": "Ảnh → Base64", "description": "Chuyển đổi ảnh sang Base64 data URI" },
+  "password-gen": { "name": "Tạo mật khẩu", "description": "Tạo mật khẩu ngẫu nhiên an toàn" },
+  "http-status": { "name": "Mã trạng thái HTTP", "description": "Tham khảo đầy đủ mã trạng thái HTTP" },
+  "number-format": { "name": "Định dạng số", "description": "Định dạng số theo nhiều kiểu khác nhau" }
+}

@@ -1,0 +1,13 @@
+{
+  "inputLabel": "输入 JSON",
+  "outputLabel": "输出",
+  "indent": "缩进",
+  "actions": {
+    "format": "格式化",
+    "minify": "压缩",
+    "sortKeys": "排序键"
+  },
+  "placeholders": {
+    "input": "{\"key\": \"value\"}"
+  }
+}

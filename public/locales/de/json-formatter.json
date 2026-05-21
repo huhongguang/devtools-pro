@@ -1,0 +1,13 @@
+{
+  "inputLabel": "Input JSON",
+  "outputLabel": "Output",
+  "indent": "Indent",
+  "actions": {
+    "format": "Format",
+    "minify": "Minify",
+    "sortKeys": "Sort Keys"
+  },
+  "placeholders": {
+    "input": "{\"key\": \"value\"}"
+  }
+}

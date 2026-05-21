@@ -1,0 +1,71 @@
+{
+  "app": {
+    "name": "DevTools Pro",
+    "tagline": "20 Entwickler-Tools",
+    "description": "20 unverzichtbare Entwickler-Tools — kostenlos, sofort, clientseitig.",
+    "noSignup": "Keine Anmeldung, kein Tracking, kein Backend."
+  },
+  "nav": {
+    "allTools": "Alle Tools",
+    "searchPlaceholder": "Tools suchen...",
+    "searchResults": "Ergebnisse ({{count}})",
+    "hotBadge": "BELIEBT"
+  },
+  "home": {
+    "mostUsed": "Am häufigsten genutzt",
+    "toolsReady": "{{count}} Tools bereit",
+    "allRunLocally": "Alle Tools laufen lokal"
+  },
+  "actions": {
+    "copy": "Kopieren",
+    "copied": "Kopiert",
+    "copyAll": "Alle kopieren",
+    "copiedAll": "Alle kopiert",
+    "save": "Speichern",
+    "clear": "Löschen",
+    "swap": "Tauschen",
+    "generate": "Generieren",
+    "convert": "Konvertieren",
+    "format": "Formatieren",
+    "encode": "Kodieren",
+    "decode": "Dekodieren",
+    "process": "Verarbeiten",
+    "preview": "Vorschau",
+    "compare": "Vergleichen",
+    "parse": "Parsen",
+    "insert": "Einfügen"
+  },
+  "status": {
+    "validJson": "✓ JSON gültig",
+    "minified": "✓ Minimiert",
+    "keysSorted": "✓ Schlüssel sortiert",
+    "noMatches": "Keine Treffer",
+    "matches_one": "{{count}} Treffer",
+    "matches_other": "{{count}} Treffer",
+    "converted": "✓ Konvertiert",
+    "formatted": "✓ Formatiert"
+  },
+  "language": {
+    "label": "Sprache",
+    "en": "English",
+    "zh-CN": "简体中文",
+    "zh-TW": "繁體中文",
+    "ja": "日本語",
+    "ko": "한국어",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ru": "Русский",
+    "vi": "Tiếng Việt",
+    "ar": "العربية"
+  },
+  "share": {
+    "copyUrl": "URL kopieren",
+    "urlCopied": "URL kopiert",
+    "shareToWeibo": "Auf Weibo teilen",
+    "shareToTwitter": "Auf X teilen",
+    "shareToFacebook": "Auf Facebook teilen",
+    "shareToLinkedIn": "Auf LinkedIn teilen",
+    "bookmark": "Lesezeichen hinzufügen",
+    "bookmarkHint": "Drücken Sie {{shortcut}} um ein Lesezeichen hinzuzufügen"
+  }
+}

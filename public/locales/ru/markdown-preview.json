@@ -1,0 +1,8 @@
+{
+  "modeSplit": "split",
+  "modeEditor": "editor",
+  "modePreview": "preview",
+  "editorLabel": "Markdown",
+  "previewLabel": "Preview",
+  "placeholder": "Type Markdown here..."
+}

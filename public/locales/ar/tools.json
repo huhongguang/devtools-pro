@@ -1,0 +1,30 @@
+{
+  "categories": {
+    "encode": "ترميز/فك الترميز",
+    "format": "تنسيق/تحليل",
+    "generate": "توليد",
+    "convert": "تحويل",
+    "text": "نص",
+    "web": "ويب/شبكة"
+  },
+  "json-formatter": { "name": "منسق JSON", "description": "تنسيق وتحقق وضغط بيانات JSON" },
+  "base64": { "name": "Base64", "description": "ترميز وفك ترميز سلاسل Base64" },
+  "timestamp": { "name": "الطابع الزمني", "description": "تحويل طوابع Unix الزمنية إلى تواريخ" },
+  "regex-tester": { "name": "اختبار Regex", "description": "اختبار وتصحيح التعبيرات النمطية" },
+  "url-encode": { "name": "ترميز URL", "description": "ترميز وفك ترميز مكونات URL" },
+  "hash-generator": { "name": "مولد Hash", "description": "توليد تجزئة MD5 وSHA-1 وSHA-256" },
+  "jwt-decoder": { "name": "فك تشفير JWT", "description": "فك تشفير وفحص بنية JWT" },
+  "cron-parser": { "name": "تعبير Cron", "description": "تحليل وشرح تعبيرات Cron" },
+  "uuid-generator": { "name": "مولد UUID", "description": "توليد UUID v4 بالجملة" },
+  "html-escape": { "name": "ترميز HTML", "description": "ترميز وفك ترميز محارف HTML الخاصة" },
+  "color-converter": { "name": "محوّل الألوان", "description": "التحويل بين HEX وRGB وHSL" },
+  "number-base": { "name": "نظام العد", "description": "التحويل بين الأنظمة 2/8/10/16" },
+  "yaml-json": { "name": "YAML ↔ JSON", "description": "التحويل ثنائي الاتجاه بين YAML وJSON" },
+  "markdown-preview": { "name": "معاينة Markdown", "description": "عرض Markdown بشكل حي" },
+  "code-formatter": { "name": "منسق الكود", "description": "تنسيق وضغط كود JS/CSS/HTML" },
+  "text-diff": { "name": "مقارنة النصوص", "description": "مقارنة نصين وإبراز الاختلافات" },
+  "image-base64": { "name": "صورة → Base64", "description": "تحويل الصور إلى بيانات Base64 URI" },
+  "password-gen": { "name": "مولد كلمات المرور", "description": "توليد كلمات مرور عشوائية آمنة" },
+  "http-status": { "name": "رموز HTTP", "description": "مرجع كامل لرموز حالة HTTP" },
+  "number-format": { "name": "تنسيق الأرقام", "description": "تنسيق الأرقام بأساليب متعددة" }
+}

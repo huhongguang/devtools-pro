@@ -1,0 +1,9 @@
+{
+  "dropHint": "Drop image here or click to upload",
+  "dropFormats": "PNG, JPG, GIF, WebP, SVG",
+  "dataUriLabel": "Data URI",
+  "cssBgLabel": "CSS Background",
+  "htmlImgLabel": "HTML img tag",
+  "decodeTitle": "Decode Base64 → Preview",
+  "decodePlaceholder": "Paste data URI or raw Base64..."
+}

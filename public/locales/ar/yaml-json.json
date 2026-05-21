@@ -1,0 +1,10 @@
+{
+  "modeYamlToJson": "YAML → JSON",
+  "modeJsonToYaml": "JSON → YAML",
+  "inputYaml": "YAML Input",
+  "inputJson": "JSON Input",
+  "outputJson": "JSON Output",
+  "outputYaml": "YAML Output",
+  "statusToJson": "✓ Converted to JSON",
+  "statusToYaml": "✓ Converted to YAML"
+}

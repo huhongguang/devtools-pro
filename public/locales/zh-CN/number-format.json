@@ -1,0 +1,17 @@
+{
+  "placeholder": "输入数字...",
+  "labels": {
+    "commaSeparated": "千位分隔",
+    "fixed2": "保留2位小数",
+    "scientific": "科学计数",
+    "percentage": "百分比",
+    "currencyUSD": "货币 (USD)",
+    "currencyCNY": "货币 (CNY)",
+    "chineseNormal": "中文 (普通)",
+    "chineseCapital": "中文 (大写)",
+    "binary": "二进制",
+    "hexadecimal": "十六进制",
+    "octal": "八进制",
+    "bytes": "字节大小"
+  }
+}

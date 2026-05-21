@@ -1,0 +1,12 @@
+{
+  "openPicker": "Open color picker",
+  "hexLabel": "HEX",
+  "rgbLabel": "RGB",
+  "hslLabel": "HSL",
+  "redLabel": "Red",
+  "greenLabel": "Green",
+  "blueLabel": "Blue",
+  "hueLabel": "Hue (0-360)",
+  "satLabel": "Sat (%)",
+  "lightLabel": "Light (%)"
+}

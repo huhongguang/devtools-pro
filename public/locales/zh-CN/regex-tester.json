@@ -1,0 +1,21 @@
+{
+  "patternLabel": "正则表达式",
+  "patternPlaceholder": "输入正则表达式...",
+  "flagsLabel": "标志 (g, i, m, s)",
+  "testStringLabel": "测试字符串",
+  "testStringPlaceholder": "输入测试字符串...",
+  "replaceLabel": "替换",
+  "replacePlaceholder": "替换字符串（$1, $2 为分组）...",
+  "matchesLabel": "匹配结果",
+  "groupLabel": "分组 {{n}}",
+  "flags": {
+    "global": "global",
+    "globalDesc": "查找所有匹配",
+    "ignoreCase": "ignore case",
+    "ignoreCaseDesc": "不区分大小写",
+    "multiline": "multiline",
+    "multilineDesc": "^ 和 $ 匹配行边界",
+    "dotAll": "dotAll",
+    "dotAllDesc": ". 匹配换行符"
+  }
+}

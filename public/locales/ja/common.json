@@ -1,0 +1,71 @@
+{
+  "app": {
+    "name": "DevTools Pro",
+    "tagline": "20の開発者ツール",
+    "description": "20の必須開発者ツール — すべて無料、即時使用可能、クライアントサイドで動作。",
+    "noSignup": "登録不要、追跡なし、バックエンドなし。"
+  },
+  "nav": {
+    "allTools": "全ツール",
+    "searchPlaceholder": "ツールを検索...",
+    "searchResults": "結果 ({{count}})",
+    "hotBadge": "人気"
+  },
+  "home": {
+    "mostUsed": "よく使われる",
+    "toolsReady": "{{count}} 個のツール準備完了",
+    "allRunLocally": "全ツールはローカルで動作"
+  },
+  "actions": {
+    "copy": "コピー",
+    "copied": "コピー済み",
+    "copyAll": "全てコピー",
+    "copiedAll": "全てコピー済み",
+    "save": "保存",
+    "clear": "クリア",
+    "swap": "入れ替え",
+    "generate": "生成",
+    "convert": "変換",
+    "format": "フォーマット",
+    "encode": "エンコード",
+    "decode": "デコード",
+    "process": "処理",
+    "preview": "プレビュー",
+    "compare": "比較",
+    "parse": "解析",
+    "insert": "挿入"
+  },
+  "status": {
+    "validJson": "✓ JSON 有効",
+    "minified": "✓ 圧縮済み",
+    "keysSorted": "✓ キー並び替え済み",
+    "noMatches": "マッチなし",
+    "matches_one": "{{count}} 件マッチ",
+    "matches_other": "{{count}} 件マッチ",
+    "converted": "✓ 変換済み",
+    "formatted": "✓ フォーマット済み"
+  },
+  "language": {
+    "label": "言語",
+    "en": "English",
+    "zh-CN": "简体中文",
+    "zh-TW": "繁體中文",
+    "ja": "日本語",
+    "ko": "한국어",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ru": "Русский",
+    "vi": "Tiếng Việt",
+    "ar": "العربية"
+  },
+  "share": {
+    "copyUrl": "URLをコピー",
+    "urlCopied": "URLをコピーしました",
+    "shareToWeibo": "Weiboに共有",
+    "shareToTwitter": "Xに共有",
+    "shareToFacebook": "Facebookに共有",
+    "shareToLinkedIn": "LinkedInに共有",
+    "bookmark": "ブックマークに追加",
+    "bookmarkHint": "{{shortcut}} を押してブックマークに追加"
+  }
+}

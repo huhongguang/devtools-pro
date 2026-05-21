@@ -1,0 +1,10 @@
+{
+  "dropLabel": "拖放图片到此处或点击上传",
+  "dropFormats": "PNG, JPG, GIF, WebP, SVG",
+  "base64Size": "{{size}} KB (Base64)",
+  "dataUriLabel": "Data URI",
+  "cssLabel": "CSS 背景",
+  "htmlLabel": "HTML img 标签",
+  "decodeTitle": "Base64 → 预览",
+  "decodePlaceholder": "粘贴 data URI 或原始 Base64..."
+}

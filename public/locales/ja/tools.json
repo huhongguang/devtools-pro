@@ -1,0 +1,30 @@
+{
+  "categories": {
+    "encode": "エンコード/デコード",
+    "format": "フォーマット/解析",
+    "generate": "生成",
+    "convert": "変換",
+    "text": "テキスト",
+    "web": "Web/ネットワーク"
+  },
+  "json-formatter": { "name": "JSONフォーマッター", "description": "JSONデータのフォーマット・検証・圧縮" },
+  "base64": { "name": "Base64", "description": "Base64文字列のエンコード・デコード" },
+  "timestamp": { "name": "タイムスタンプ", "description": "Unixタイムスタンプと日付の変換" },
+  "regex-tester": { "name": "正規表現テスター", "description": "正規表現のテストとデバッグ" },
+  "url-encode": { "name": "URLエンコード/デコード", "description": "URLコンポーネントのエンコード・デコード" },
+  "hash-generator": { "name": "ハッシュ生成", "description": "MD5・SHA-1・SHA-256ハッシュ値の生成" },
+  "jwt-decoder": { "name": "JWTデコーダー", "description": "JWTトークンの構造を解析・表示" },
+  "cron-parser": { "name": "Cron式パーサー", "description": "Cronスケジュール式の解析と説明" },
+  "uuid-generator": { "name": "UUID生成", "description": "v4 UUIDの一括生成" },
+  "html-escape": { "name": "HTMLエスケープ", "description": "HTML特殊文字のエスケープ・アンエスケープ" },
+  "color-converter": { "name": "カラーコンバーター", "description": "HEX・RGB・HSLカラー形式の相互変換" },
+  "number-base": { "name": "進数変換", "description": "2進数・8進数・10進数・16進数の相互変換" },
+  "yaml-json": { "name": "YAML ↔ JSON", "description": "YAMLとJSON形式の双方向変換" },
+  "markdown-preview": { "name": "Markdownプレビュー", "description": "リアルタイムMarkdownレンダリング" },
+  "code-formatter": { "name": "コード整形", "description": "JS/CSS/HTMLコードの整形・圧縮" },
+  "text-diff": { "name": "テキスト差分", "description": "2つのテキストを比較して差分を強調表示" },
+  "image-base64": { "name": "画像→Base64", "description": "画像をBase64データURIに変換" },
+  "password-gen": { "name": "パスワード生成", "description": "安全なランダムパスワードの生成" },
+  "http-status": { "name": "HTTPステータスコード", "description": "HTTPレスポンスステータスコードの完全リファレンス" },
+  "number-format": { "name": "数値フォーマット", "description": "様々な形式での数値変換" }
+}

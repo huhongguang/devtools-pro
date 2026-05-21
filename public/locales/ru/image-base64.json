@@ -1,0 +1,10 @@
+{
+  "dropLabel": "Drop image here or click to upload",
+  "dropFormats": "PNG, JPG, GIF, WebP, SVG",
+  "base64Size": "{{size}} KB (Base64)",
+  "dataUriLabel": "Data URI",
+  "cssLabel": "CSS Background",
+  "htmlLabel": "HTML img tag",
+  "decodeTitle": "Decode Base64 → Preview",
+  "decodePlaceholder": "Paste data URI or raw Base64..."
+}

@@ -1,0 +1,30 @@
+{
+  "categories": {
+    "encode": "Encode/Decode",
+    "format": "Format/Parse",
+    "generate": "Generate",
+    "convert": "Convert",
+    "text": "Text",
+    "web": "Web/Network"
+  },
+  "json-formatter": { "name": "JSON Formatter", "description": "Format, validate and minify JSON data" },
+  "base64": { "name": "Base64", "description": "Encode and decode Base64 strings" },
+  "timestamp": { "name": "Timestamp", "description": "Convert Unix timestamps to dates" },
+  "regex-tester": { "name": "Regex Tester", "description": "Test and debug regular expressions" },
+  "url-encode": { "name": "URL Encode/Decode", "description": "Encode and decode URL components" },
+  "hash-generator": { "name": "Hash Generator", "description": "Generate MD5, SHA-1, SHA-256 hashes" },
+  "jwt-decoder": { "name": "JWT Decoder", "description": "Decode and inspect JWT tokens" },
+  "cron-parser": { "name": "Cron Expression", "description": "Parse and explain cron expressions" },
+  "uuid-generator": { "name": "UUID Generator", "description": "Generate v4 UUIDs in bulk" },
+  "html-escape": { "name": "HTML Escape", "description": "Escape and unescape HTML entities" },
+  "color-converter": { "name": "Color Converter", "description": "Convert between HEX, RGB, HSL colors" },
+  "number-base": { "name": "Number Base", "description": "Convert numbers between bases 2/8/10/16" },
+  "yaml-json": { "name": "YAML ↔ JSON", "description": "Convert between YAML and JSON formats" },
+  "markdown-preview": { "name": "Markdown Preview", "description": "Render Markdown with live preview" },
+  "code-formatter": { "name": "Code Beautifier", "description": "Beautify and minify JS/CSS/HTML code" },
+  "text-diff": { "name": "Text Diff", "description": "Compare two texts and highlight differences" },
+  "image-base64": { "name": "Image → Base64", "description": "Convert images to Base64 data URIs" },
+  "password-gen": { "name": "Password Generator", "description": "Generate secure random passwords" },
+  "http-status": { "name": "HTTP Status Codes", "description": "Reference for all HTTP status codes" },
+  "number-format": { "name": "Number Format", "description": "Format numbers in various styles" }
+}

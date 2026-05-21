@@ -1,0 +1,12 @@
+{
+  "mode": "Mode",
+  "modeEncode": "encode",
+  "modeDecode": "decode",
+  "scope": "Scope",
+  "scopeURI": "URI",
+  "scopeComponent": "Component",
+  "inputLabel": "Plain URL",
+  "outputLabel": "Result",
+  "placeholderEncode": "https://example.com/search?q=hello world",
+  "errorInvalid": "Error: invalid URL encoding"
+}

@@ -1,0 +1,71 @@
+{
+  "app": {
+    "name": "DevTools Pro",
+    "tagline": "개발자 도구 20가지",
+    "description": "20가지 필수 개발자 도구 — 모두 무료, 즉시 사용 가능, 클라이언트 사이드 실행.",
+    "noSignup": "회원가입 불필요, 추적 없음, 백엔드 없음."
+  },
+  "nav": {
+    "allTools": "모든 도구",
+    "searchPlaceholder": "도구 검색...",
+    "searchResults": "결과 ({{count}})",
+    "hotBadge": "인기"
+  },
+  "home": {
+    "mostUsed": "자주 사용",
+    "toolsReady": "{{count}}개 도구 준비됨",
+    "allRunLocally": "모든 도구는 로컬에서 실행"
+  },
+  "actions": {
+    "copy": "복사",
+    "copied": "복사됨",
+    "copyAll": "모두 복사",
+    "copiedAll": "모두 복사됨",
+    "save": "저장",
+    "clear": "지우기",
+    "swap": "교환",
+    "generate": "생성",
+    "convert": "변환",
+    "format": "포맷",
+    "encode": "인코딩",
+    "decode": "디코딩",
+    "process": "처리",
+    "preview": "미리보기",
+    "compare": "비교",
+    "parse": "파싱",
+    "insert": "삽입"
+  },
+  "status": {
+    "validJson": "✓ JSON 유효",
+    "minified": "✓ 압축됨",
+    "keysSorted": "✓ 키 정렬됨",
+    "noMatches": "일치 없음",
+    "matches_one": "{{count}}개 일치",
+    "matches_other": "{{count}}개 일치",
+    "converted": "✓ 변환됨",
+    "formatted": "✓ 포맷됨"
+  },
+  "language": {
+    "label": "언어",
+    "en": "English",
+    "zh-CN": "简体中文",
+    "zh-TW": "繁體中文",
+    "ja": "日本語",
+    "ko": "한국어",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ru": "Русский",
+    "vi": "Tiếng Việt",
+    "ar": "العربية"
+  },
+  "share": {
+    "copyUrl": "URL 복사",
+    "urlCopied": "URL 복사됨",
+    "shareToWeibo": "Weibo에 공유",
+    "shareToTwitter": "X에 공유",
+    "shareToFacebook": "Facebook에 공유",
+    "shareToLinkedIn": "LinkedIn에 공유",
+    "bookmark": "즐겨찾기에 추가",
+    "bookmarkHint": "{{shortcut}}을 눌러 즐겨찾기에 추가"
+  }
+}

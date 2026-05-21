@@ -1,0 +1,12 @@
+{
+  "currentTime": "Current Time",
+  "live": "Live",
+  "paused": "Paused",
+  "useThis": "Use this timestamp →",
+  "tsToDate": "Timestamp → Date",
+  "dateToTs": "Date → Timestamp",
+  "placeholderTs": "Unix timestamp (e.g. 1700000000)",
+  "iso8601": "ISO 8601",
+  "unixSeconds": "Unix (seconds)",
+  "unixMs": "Unix (ms)"
+}

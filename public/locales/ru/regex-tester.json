@@ -1,0 +1,21 @@
+{
+  "patternLabel": "Pattern",
+  "patternPlaceholder": "Enter regex pattern...",
+  "flagsLabel": "Flags (g, i, m, s)",
+  "testStringLabel": "Test String",
+  "testStringPlaceholder": "Enter test string...",
+  "replaceLabel": "Replace",
+  "replacePlaceholder": "Replacement string ($1, $2 for groups)...",
+  "matchesLabel": "Matches",
+  "groupLabel": "Group {{n}}",
+  "flags": {
+    "global": "global",
+    "globalDesc": "Find all matches",
+    "ignoreCase": "ignore case",
+    "ignoreCaseDesc": "Case insensitive",
+    "multiline": "multiline",
+    "multilineDesc": "^ and $ match line boundaries",
+    "dotAll": "dotAll",
+    "dotAllDesc": ". matches newline"
+  }
+}

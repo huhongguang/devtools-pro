@@ -1,0 +1,12 @@
+{
+  "openPicker": "打开取色器",
+  "hexLabel": "HEX",
+  "rgbLabel": "RGB",
+  "hslLabel": "HSL",
+  "redLabel": "红",
+  "greenLabel": "绿",
+  "blueLabel": "蓝",
+  "hueLabel": "色相 (0-360)",
+  "satLabel": "饱和度 (%)",
+  "lightLabel": "亮度 (%)"
+}

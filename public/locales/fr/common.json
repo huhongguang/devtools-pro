@@ -1,0 +1,71 @@
+{
+  "app": {
+    "name": "DevTools Pro",
+    "tagline": "20 Outils Développeur",
+    "description": "20 outils essentiels pour développeurs — gratuits, instantanés, côté client.",
+    "noSignup": "Sans inscription, sans tracking, sans backend."
+  },
+  "nav": {
+    "allTools": "Tous les outils",
+    "searchPlaceholder": "Rechercher des outils...",
+    "searchResults": "Résultats ({{count}})",
+    "hotBadge": "POPULAIRE"
+  },
+  "home": {
+    "mostUsed": "Les plus utilisés",
+    "toolsReady": "{{count}} outils prêts",
+    "allRunLocally": "Tous les outils fonctionnent localement"
+  },
+  "actions": {
+    "copy": "Copier",
+    "copied": "Copié",
+    "copyAll": "Tout copier",
+    "copiedAll": "Tout copié",
+    "save": "Enregistrer",
+    "clear": "Effacer",
+    "swap": "Échanger",
+    "generate": "Générer",
+    "convert": "Convertir",
+    "format": "Formater",
+    "encode": "Encoder",
+    "decode": "Décoder",
+    "process": "Traiter",
+    "preview": "Aperçu",
+    "compare": "Comparer",
+    "parse": "Analyser",
+    "insert": "Insérer"
+  },
+  "status": {
+    "validJson": "✓ JSON valide",
+    "minified": "✓ Minifié",
+    "keysSorted": "✓ Clés triées",
+    "noMatches": "Aucune correspondance",
+    "matches_one": "{{count}} correspondance",
+    "matches_other": "{{count}} correspondances",
+    "converted": "✓ Converti",
+    "formatted": "✓ Formaté"
+  },
+  "language": {
+    "label": "Langue",
+    "en": "English",
+    "zh-CN": "简体中文",
+    "zh-TW": "繁體中文",
+    "ja": "日本語",
+    "ko": "한국어",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ru": "Русский",
+    "vi": "Tiếng Việt",
+    "ar": "العربية"
+  },
+  "share": {
+    "copyUrl": "Copier l'URL",
+    "urlCopied": "URL copiée",
+    "shareToWeibo": "Partager sur Weibo",
+    "shareToTwitter": "Partager sur X",
+    "shareToFacebook": "Partager sur Facebook",
+    "shareToLinkedIn": "Partager sur LinkedIn",
+    "bookmark": "Ajouter aux favoris",
+    "bookmarkHint": "Appuyez sur {{shortcut}} pour ajouter aux favoris"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "modeLabel": "Mode",
+  "modeChar": "Char",
+  "modeWord": "Word",
+  "modeLine": "Line",
+  "originalLabel": "Original",
+  "modifiedLabel": "Modified",
+  "resultTitle": "Diff Result",
+  "added": "added",
+  "removed": "removed"
+}

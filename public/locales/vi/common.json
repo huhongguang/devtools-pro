@@ -1,0 +1,71 @@
+{
+  "app": {
+    "name": "DevTools Pro",
+    "tagline": "20 Công Cụ Lập Trình",
+    "description": "20 công cụ lập trình cần thiết — miễn phí, tức thì, chạy trên trình duyệt.",
+    "noSignup": "Không cần đăng ký, không theo dõi, không cần backend."
+  },
+  "nav": {
+    "allTools": "Tất cả công cụ",
+    "searchPlaceholder": "Tìm kiếm công cụ...",
+    "searchResults": "Kết quả ({{count}})",
+    "hotBadge": "PHỔ BIẾN"
+  },
+  "home": {
+    "mostUsed": "Hay dùng nhất",
+    "toolsReady": "{{count}} công cụ sẵn sàng",
+    "allRunLocally": "Tất cả công cụ chạy cục bộ"
+  },
+  "actions": {
+    "copy": "Sao chép",
+    "copied": "Đã sao chép",
+    "copyAll": "Sao chép tất cả",
+    "copiedAll": "Đã sao chép tất cả",
+    "save": "Lưu",
+    "clear": "Xóa",
+    "swap": "Đổi chỗ",
+    "generate": "Tạo",
+    "convert": "Chuyển đổi",
+    "format": "Định dạng",
+    "encode": "Mã hóa",
+    "decode": "Giải mã",
+    "process": "Xử lý",
+    "preview": "Xem trước",
+    "compare": "So sánh",
+    "parse": "Phân tích",
+    "insert": "Chèn"
+  },
+  "status": {
+    "validJson": "✓ JSON hợp lệ",
+    "minified": "✓ Đã thu nhỏ",
+    "keysSorted": "✓ Đã sắp xếp khóa",
+    "noMatches": "Không có kết quả",
+    "matches_one": "{{count}} kết quả",
+    "matches_other": "{{count}} kết quả",
+    "converted": "✓ Đã chuyển đổi",
+    "formatted": "✓ Đã định dạng"
+  },
+  "language": {
+    "label": "Ngôn ngữ",
+    "en": "English",
+    "zh-CN": "简体中文",
+    "zh-TW": "繁體中文",
+    "ja": "日本語",
+    "ko": "한국어",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ru": "Русский",
+    "vi": "Tiếng Việt",
+    "ar": "العربية"
+  },
+  "share": {
+    "copyUrl": "Sao chép URL",
+    "urlCopied": "Đã sao chép URL",
+    "shareToWeibo": "Chia sẻ lên Weibo",
+    "shareToTwitter": "Chia sẻ lên X",
+    "shareToFacebook": "Chia sẻ lên Facebook",
+    "shareToLinkedIn": "Chia sẻ lên LinkedIn",
+    "bookmark": "Thêm vào yêu thích",
+    "bookmarkHint": "Nhấn {{shortcut}} để thêm vào yêu thích"
+  }
+}

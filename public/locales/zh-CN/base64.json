@@ -1,0 +1,14 @@
+{
+  "mode": "模式",
+  "modeEncode": "编码",
+  "modeDecode": "解码",
+  "inputLabel": "纯文本",
+  "inputLabelDecode": "Base64 字符串",
+  "outputLabel": "Base64 输出",
+  "outputLabelDecode": "解码文本",
+  "placeholderEncode": "输入要编码的文本...",
+  "placeholderDecode": "输入 Base64 字符串...",
+  "statusEncoded": "已编码",
+  "statusDecoded": "已解码",
+  "errorInvalid": "无效的 Base64 字符串"
+}

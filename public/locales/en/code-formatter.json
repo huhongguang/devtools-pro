@@ -1,0 +1,7 @@
+{
+  "indentLabel": "Indent",
+  "inputLabel": "Input Code",
+  "outputLabel": "Output",
+  "minifyBtn": "Minify",
+  "minifiedStatus": "✓ Minified ({{from}} → {{to}} chars)"
+}

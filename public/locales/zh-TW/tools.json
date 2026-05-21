@@ -1,0 +1,30 @@
+{
+  "categories": {
+    "encode": "編碼/解碼",
+    "format": "格式化/解析",
+    "generate": "生成",
+    "convert": "轉換",
+    "text": "文字",
+    "web": "Web/網路"
+  },
+  "json-formatter": { "name": "JSON 格式化", "description": "格式化、驗證和壓縮 JSON 資料" },
+  "base64": { "name": "Base64", "description": "Base64 字串編碼與解碼" },
+  "timestamp": { "name": "時間戳記", "description": "Unix 時間戳記與日期互轉" },
+  "regex-tester": { "name": "正規表示式測試", "description": "測試和除錯正規表示式" },
+  "url-encode": { "name": "URL 編碼/解碼", "description": "URL 元件編碼與解碼" },
+  "hash-generator": { "name": "雜湊生成", "description": "生成 MD5、SHA-1、SHA-256 雜湊值" },
+  "jwt-decoder": { "name": "JWT 解碼", "description": "解碼並查看 JWT Token 結構" },
+  "cron-parser": { "name": "Cron 表達式", "description": "解析和說明 Cron 定時表達式" },
+  "uuid-generator": { "name": "UUID 生成", "description": "批次生成 v4 UUID" },
+  "html-escape": { "name": "HTML 跳脫", "description": "HTML 特殊字元跳脫與還原" },
+  "color-converter": { "name": "顏色轉換", "description": "HEX、RGB、HSL 顏色格式互轉" },
+  "number-base": { "name": "進位制轉換", "description": "二進位、八進位、十進位、十六進位互轉" },
+  "yaml-json": { "name": "YAML ↔ JSON", "description": "YAML 與 JSON 格式雙向轉換" },
+  "markdown-preview": { "name": "Markdown 預覽", "description": "即時 Markdown 渲染預覽" },
+  "code-formatter": { "name": "程式碼美化", "description": "JS/CSS/HTML 程式碼美化與壓縮" },
+  "text-diff": { "name": "文字比對", "description": "比對兩段文字並標示差異" },
+  "image-base64": { "name": "圖片轉 Base64", "description": "將圖片轉換為 Base64 資料 URI" },
+  "password-gen": { "name": "密碼生成", "description": "生成加密安全的隨機密碼" },
+  "http-status": { "name": "HTTP 狀態碼", "description": "HTTP 回應狀態碼完整參考" },
+  "number-format": { "name": "數字格式化", "description": "多種格式數字轉換，含中文大寫" }
+}

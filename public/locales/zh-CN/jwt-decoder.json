@@ -1,0 +1,11 @@
+{
+  "tokenLabel": "JWT Token",
+  "tokenPlaceholder": "粘贴 JWT Token...",
+  "tabHeader": "Header",
+  "tabPayload": "Payload",
+  "tabSignature": "Signature",
+  "loadSample": "加载示例",
+  "sigNote": "签名验证需要密钥，无法在客户端安全执行。",
+  "expired": "已过期 {{date}}",
+  "expires": "过期时间 {{date}}"
+}

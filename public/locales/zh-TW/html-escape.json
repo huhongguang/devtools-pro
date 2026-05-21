@@ -1,0 +1,10 @@
+{
+  "modeEscape": "escape",
+  "modeUnescape": "unescape",
+  "inputLabel": "HTML / Text",
+  "outputLabel": "Escaped HTML",
+  "entitiesTitle": "Common HTML Entities",
+  "colChar": "Char",
+  "colEntity": "Entity",
+  "colCode": "Code"
+}

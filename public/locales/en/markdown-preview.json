@@ -1,0 +1,8 @@
+{
+  "viewSplit": "Split",
+  "viewEditor": "Editor",
+  "viewPreview": "Preview",
+  "editorLabel": "Markdown",
+  "previewLabel": "Preview",
+  "placeholder": "Type Markdown here..."
+}

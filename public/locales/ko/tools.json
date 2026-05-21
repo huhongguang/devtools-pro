@@ -1,0 +1,30 @@
+{
+  "categories": {
+    "encode": "인코딩/디코딩",
+    "format": "포맷/파싱",
+    "generate": "생성",
+    "convert": "변환",
+    "text": "텍스트",
+    "web": "Web/네트워크"
+  },
+  "json-formatter": { "name": "JSON 포매터", "description": "JSON 데이터 포맷, 검증, 압축" },
+  "base64": { "name": "Base64", "description": "Base64 문자열 인코딩 및 디코딩" },
+  "timestamp": { "name": "타임스탬프", "description": "Unix 타임스탬프와 날짜 상호 변환" },
+  "regex-tester": { "name": "정규식 테스터", "description": "정규 표현식 테스트 및 디버깅" },
+  "url-encode": { "name": "URL 인코딩/디코딩", "description": "URL 컴포넌트 인코딩 및 디코딩" },
+  "hash-generator": { "name": "해시 생성기", "description": "MD5, SHA-1, SHA-256 해시 생성" },
+  "jwt-decoder": { "name": "JWT 디코더", "description": "JWT 토큰 구조 해석 및 확인" },
+  "cron-parser": { "name": "Cron 표현식", "description": "Cron 스케줄 표현식 파싱 및 설명" },
+  "uuid-generator": { "name": "UUID 생성기", "description": "v4 UUID 일괄 생성" },
+  "html-escape": { "name": "HTML 이스케이프", "description": "HTML 특수문자 이스케이프 및 복원" },
+  "color-converter": { "name": "색상 변환기", "description": "HEX, RGB, HSL 색상 형식 상호 변환" },
+  "number-base": { "name": "진법 변환", "description": "2진수, 8진수, 10진수, 16진수 상호 변환" },
+  "yaml-json": { "name": "YAML ↔ JSON", "description": "YAML과 JSON 형식 양방향 변환" },
+  "markdown-preview": { "name": "Markdown 미리보기", "description": "실시간 Markdown 렌더링 미리보기" },
+  "code-formatter": { "name": "코드 포매터", "description": "JS/CSS/HTML 코드 포맷 및 압축" },
+  "text-diff": { "name": "텍스트 비교", "description": "두 텍스트를 비교하고 차이점 강조" },
+  "image-base64": { "name": "이미지 → Base64", "description": "이미지를 Base64 데이터 URI로 변환" },
+  "password-gen": { "name": "비밀번호 생성기", "description": "안전한 무작위 비밀번호 생성" },
+  "http-status": { "name": "HTTP 상태 코드", "description": "HTTP 응답 상태 코드 전체 참조" },
+  "number-format": { "name": "숫자 포맷", "description": "다양한 형식의 숫자 변환" }
+}

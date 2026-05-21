@@ -1,0 +1,11 @@
+{
+  "modeChar": "char",
+  "modeWord": "word",
+  "modeLine": "line",
+  "modeLabel": "Mode",
+  "originalLabel": "Original",
+  "modifiedLabel": "Modified",
+  "diffResultLabel": "Diff Result",
+  "statsAdded": "+{{count}} added",
+  "statsRemoved": "-{{count}} removed"
+}

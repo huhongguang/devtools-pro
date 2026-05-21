@@ -1,0 +1,14 @@
+{
+  "mode": "Mode",
+  "modeEncode": "encode",
+  "modeDecode": "decode",
+  "inputLabel": "Plain Text",
+  "inputLabelDecode": "Base64 String",
+  "outputLabel": "Base64 Output",
+  "outputLabelDecode": "Decoded Text",
+  "placeholderEncode": "Enter text to encode...",
+  "placeholderDecode": "Enter Base64 string to decode...",
+  "statusEncoded": "Encoded",
+  "statusDecoded": "Decoded",
+  "errorInvalid": "Invalid Base64 string"
+}

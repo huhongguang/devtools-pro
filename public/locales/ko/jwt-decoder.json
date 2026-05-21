@@ -1,0 +1,11 @@
+{
+  "tokenLabel": "JWT Token",
+  "tokenPlaceholder": "Paste your JWT token here...",
+  "tabHeader": "Header",
+  "tabPayload": "Payload",
+  "tabSignature": "Signature",
+  "loadSample": "Load Sample",
+  "sigNote": "Signature verification requires the secret key and cannot be done client-side securely.",
+  "expired": "Expired {{date}}",
+  "expires": "Expires {{date}}"
+}

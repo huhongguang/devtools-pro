@@ -1,0 +1,30 @@
+{
+  "categories": {
+    "encode": "Encodage/Décodage",
+    "format": "Format/Analyse",
+    "generate": "Générer",
+    "convert": "Convertir",
+    "text": "Texte",
+    "web": "Web/Réseau"
+  },
+  "json-formatter": { "name": "Formateur JSON", "description": "Formater, valider et minifier des données JSON" },
+  "base64": { "name": "Base64", "description": "Encoder et décoder des chaînes Base64" },
+  "timestamp": { "name": "Horodatage", "description": "Convertir les timestamps Unix en dates" },
+  "regex-tester": { "name": "Testeur Regex", "description": "Tester et déboguer les expressions régulières" },
+  "url-encode": { "name": "Encodage URL", "description": "Encoder et décoder les composants d'URL" },
+  "hash-generator": { "name": "Générateur de hachage", "description": "Générer des hachages MD5, SHA-1, SHA-256" },
+  "jwt-decoder": { "name": "Décodeur JWT", "description": "Décoder et inspecter les tokens JWT" },
+  "cron-parser": { "name": "Expression Cron", "description": "Analyser et expliquer les expressions cron" },
+  "uuid-generator": { "name": "Générateur UUID", "description": "Générer des UUID v4 en masse" },
+  "html-escape": { "name": "Échappement HTML", "description": "Échapper et désechapper les entités HTML" },
+  "color-converter": { "name": "Convertisseur de couleurs", "description": "Convertir entre HEX, RGB et HSL" },
+  "number-base": { "name": "Base numérique", "description": "Convertir entre bases 2/8/10/16" },
+  "yaml-json": { "name": "YAML ↔ JSON", "description": "Convertir entre YAML et JSON" },
+  "markdown-preview": { "name": "Aperçu Markdown", "description": "Rendu Markdown en temps réel" },
+  "code-formatter": { "name": "Embellisseur de code", "description": "Embellir et minifier JS/CSS/HTML" },
+  "text-diff": { "name": "Diff de texte", "description": "Comparer deux textes et mettre en évidence les différences" },
+  "image-base64": { "name": "Image → Base64", "description": "Convertir des images en URI Base64" },
+  "password-gen": { "name": "Générateur de mots de passe", "description": "Générer des mots de passe aléatoires sécurisés" },
+  "http-status": { "name": "Codes HTTP", "description": "Référence complète des codes de statut HTTP" },
+  "number-format": { "name": "Format de nombre", "description": "Formater les nombres dans divers styles" }
+}

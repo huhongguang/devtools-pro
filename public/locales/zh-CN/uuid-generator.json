@@ -1,0 +1,8 @@
+{
+  "optionsLabel": "选项",
+  "versionLabel": "版本",
+  "countLabel": "数量",
+  "uppercaseLabel": "大写",
+  "noDashesLabel": "去除连字符",
+  "generatedCount": "已生成 {{count}} 个 UUID"
+}

@@ -1,0 +1,10 @@
+{
+  "modeEscape": "转义",
+  "modeUnescape": "还原",
+  "inputLabel": "HTML / 文本",
+  "outputLabel": "转义后的 HTML",
+  "entitiesTitle": "常用 HTML 实体",
+  "colChar": "字符",
+  "colEntity": "实体",
+  "colCode": "代码"
+}

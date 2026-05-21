@@ -1,0 +1,12 @@
+{
+  "mode": "模式",
+  "modeEncode": "编码",
+  "modeDecode": "解码",
+  "scope": "范围",
+  "scopeURI": "URI",
+  "scopeComponent": "组件",
+  "inputLabel": "原始 URL",
+  "outputLabel": "结果",
+  "placeholderEncode": "https://example.com/search?q=hello world",
+  "errorInvalid": "错误：无效的 URL 编码"
+}

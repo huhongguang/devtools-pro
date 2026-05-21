@@ -1,0 +1,71 @@
+{
+  "app": {
+    "name": "DevTools Pro",
+    "tagline": "20 Developer Utilities",
+    "description": "20 essential developer utilities — all free, all instant, all client-side.",
+    "noSignup": "No signup, no tracking, no backend."
+  },
+  "nav": {
+    "allTools": "All Tools",
+    "searchPlaceholder": "Search tools...",
+    "searchResults": "Results ({{count}})",
+    "hotBadge": "HOT"
+  },
+  "home": {
+    "mostUsed": "Most Used",
+    "toolsReady": "{{count}} tools ready",
+    "allRunLocally": "All tools run locally"
+  },
+  "actions": {
+    "copy": "Copy",
+    "copied": "Copied",
+    "copyAll": "Copy all",
+    "copiedAll": "Copied all",
+    "save": "Save",
+    "clear": "Clear",
+    "swap": "Swap",
+    "generate": "Generate",
+    "convert": "Convert",
+    "format": "Format",
+    "encode": "Encode",
+    "decode": "Decode",
+    "process": "Process",
+    "preview": "Preview",
+    "compare": "Compare",
+    "parse": "Parse",
+    "insert": "insert"
+  },
+  "status": {
+    "validJson": "✓ Valid JSON",
+    "minified": "✓ Minified",
+    "keysSorted": "✓ Keys sorted",
+    "noMatches": "No matches",
+    "matches_one": "{{count}} match",
+    "matches_other": "{{count}} matches",
+    "converted": "✓ Converted",
+    "formatted": "✓ Formatted"
+  },
+  "language": {
+    "label": "Language",
+    "en": "English",
+    "zh-CN": "简体中文",
+    "zh-TW": "繁體中文",
+    "ja": "日本語",
+    "ko": "한국어",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ru": "Русский",
+    "vi": "Tiếng Việt",
+    "ar": "العربية"
+  },
+  "share": {
+    "copyUrl": "Copy URL",
+    "urlCopied": "URL copied",
+    "shareToWeibo": "Share to Weibo",
+    "shareToTwitter": "Share to X",
+    "shareToFacebook": "Share to Facebook",
+    "shareToLinkedIn": "Share to LinkedIn",
+    "bookmark": "Bookmark this page",
+    "bookmarkHint": "Press {{shortcut}} to bookmark this page"
+  }
+}

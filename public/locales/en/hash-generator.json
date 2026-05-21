@@ -1,0 +1,9 @@
+{
+  "inputLabel": "Input Text",
+  "inputPlaceholder": "Enter text to hash...",
+  "generating": "Generating...",
+  "cryptoUnavailable": "Web Crypto API is not available. Please access via HTTPS or localhost.",
+  "generateError": "Failed to generate hash.",
+  "aboutTitle": "About Hash Functions",
+  "aboutText": "Cryptographic hash functions produce a fixed-size digest from input data. They are one-way (cannot be reversed) and deterministic. SHA-256 and SHA-512 are recommended for security-sensitive use cases. MD5 and SHA-1 are considered broken for cryptographic purposes."
+}

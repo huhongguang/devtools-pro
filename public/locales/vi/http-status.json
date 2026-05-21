@@ -1,0 +1,43 @@
+{
+  "searchPlaceholder": "Search codes...",
+  "filterAll": "All",
+  "selectPrompt": "Select a status code to view details",
+  "groups": {
+    "1xx": "Informational",
+    "2xx": "Success",
+    "3xx": "Redirection",
+    "4xx": "Client Error",
+    "5xx": "Server Error"
+  },
+  "codes": {
+    "100": { "phrase": "Continue", "description": "The server has received the request headers and the client should proceed to send the request body." },
+    "101": { "phrase": "Switching Protocols", "description": "The server is switching protocols as requested by the client." },
+    "103": { "phrase": "Early Hints", "description": "Used to return some response headers before final HTTP message." },
+    "200": { "phrase": "OK", "description": "The request has succeeded." },
+    "201": { "phrase": "Created", "description": "The request has been fulfilled and a new resource has been created." },
+    "202": { "phrase": "Accepted", "description": "The request has been accepted for processing, but the processing has not been completed." },
+    "204": { "phrase": "No Content", "description": "The server successfully processed the request and is not returning any content." },
+    "206": { "phrase": "Partial Content", "description": "The server is delivering only part of the resource due to a range header sent by the client." },
+    "301": { "phrase": "Moved Permanently", "description": "The requested resource has been permanently moved to a new URL." },
+    "302": { "phrase": "Found", "description": "The requested resource resides temporarily under a different URL." },
+    "304": { "phrase": "Not Modified", "description": "The resource has not been modified since the version specified by the request headers." },
+    "307": { "phrase": "Temporary Redirect", "description": "The requested resource resides temporarily under a different URL, method must not change." },
+    "308": { "phrase": "Permanent Redirect", "description": "The requested resource has been permanently moved, method must not change." },
+    "400": { "phrase": "Bad Request", "description": "The server cannot or will not process the request due to a client error." },
+    "401": { "phrase": "Unauthorized", "description": "Authentication is required and has failed or has not been provided." },
+    "403": { "phrase": "Forbidden", "description": "The server understood the request but refuses to authorize it." },
+    "404": { "phrase": "Not Found", "description": "The requested resource could not be found on the server." },
+    "405": { "phrase": "Method Not Allowed", "description": "The request method is not supported for the requested resource." },
+    "408": { "phrase": "Request Timeout", "description": "The server timed out waiting for the request." },
+    "409": { "phrase": "Conflict", "description": "The request conflicts with the current state of the server." },
+    "410": { "phrase": "Gone", "description": "The resource requested is no longer available and will not be available again." },
+    "422": { "phrase": "Unprocessable Entity", "description": "The request was well-formed but was unable to be followed due to semantic errors." },
+    "429": { "phrase": "Too Many Requests", "description": "The user has sent too many requests in a given amount of time." },
+    "500": { "phrase": "Internal Server Error", "description": "The server encountered an unexpected condition that prevented it from fulfilling the request." },
+    "501": { "phrase": "Not Implemented", "description": "The server does not support the functionality required to fulfill the request." },
+    "502": { "phrase": "Bad Gateway", "description": "The server received an invalid response from the upstream server." },
+    "503": { "phrase": "Service Unavailable", "description": "The server is currently unable to handle the request due to maintenance or overloading." },
+    "504": { "phrase": "Gateway Timeout", "description": "The server did not receive a timely response from the upstream server." },
+    "507": { "phrase": "Insufficient Storage", "description": "The server is unable to store the representation needed to complete the request." }
+  }
+}

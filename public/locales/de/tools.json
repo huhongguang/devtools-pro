@@ -1,0 +1,30 @@
+{
+  "categories": {
+    "encode": "Kodierung/Dekodierung",
+    "format": "Format/Analyse",
+    "generate": "Generieren",
+    "convert": "Konvertieren",
+    "text": "Text",
+    "web": "Web/Netzwerk"
+  },
+  "json-formatter": { "name": "JSON-Formatierer", "description": "JSON-Daten formatieren, validieren und minimieren" },
+  "base64": { "name": "Base64", "description": "Base64-Strings kodieren und dekodieren" },
+  "timestamp": { "name": "Zeitstempel", "description": "Unix-Zeitstempel in Daten umwandeln" },
+  "regex-tester": { "name": "Regex-Tester", "description": "Reguläre Ausdrücke testen und debuggen" },
+  "url-encode": { "name": "URL-Kodierung", "description": "URL-Komponenten kodieren und dekodieren" },
+  "hash-generator": { "name": "Hash-Generator", "description": "MD5-, SHA-1-, SHA-256-Hashes generieren" },
+  "jwt-decoder": { "name": "JWT-Decoder", "description": "JWT-Token dekodieren und inspizieren" },
+  "cron-parser": { "name": "Cron-Ausdruck", "description": "Cron-Ausdrücke parsen und erklären" },
+  "uuid-generator": { "name": "UUID-Generator", "description": "v4-UUIDs in Massen generieren" },
+  "html-escape": { "name": "HTML-Escape", "description": "HTML-Sonderzeichen escapen und unescapen" },
+  "color-converter": { "name": "Farbkonverter", "description": "Zwischen HEX, RGB und HSL konvertieren" },
+  "number-base": { "name": "Zahlenbasis", "description": "Zwischen Basis 2/8/10/16 konvertieren" },
+  "yaml-json": { "name": "YAML ↔ JSON", "description": "Zwischen YAML und JSON konvertieren" },
+  "markdown-preview": { "name": "Markdown-Vorschau", "description": "Markdown in Echtzeit rendern" },
+  "code-formatter": { "name": "Code-Verschönerer", "description": "JS/CSS/HTML-Code verschönern und minimieren" },
+  "text-diff": { "name": "Text-Vergleich", "description": "Zwei Texte vergleichen und Unterschiede hervorheben" },
+  "image-base64": { "name": "Bild → Base64", "description": "Bilder in Base64-Daten-URIs umwandeln" },
+  "password-gen": { "name": "Passwort-Generator", "description": "Sichere zufällige Passwörter generieren" },
+  "http-status": { "name": "HTTP-Statuscodes", "description": "Vollständige Referenz für HTTP-Statuscodes" },
+  "number-format": { "name": "Zahlenformat", "description": "Zahlen in verschiedenen Stilen formatieren" }
+}

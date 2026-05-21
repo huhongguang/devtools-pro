@@ -1,0 +1,48 @@
+{
+  "expressionLabel": "Expression",
+  "descriptionLabel": "Description",
+  "presetsLabel": "Common Presets",
+  "fieldRefLabel": "Field Reference",
+  "specialNote": "Special: * (any), , (list), - (range), / (step)",
+  "presets": {
+    "everyMinute": "Every minute",
+    "everyHour": "Every hour",
+    "everyDayMidnight": "Every day at midnight",
+    "everyMondayNine": "Every Monday 9am",
+    "firstOfMonth": "Every 1st of month",
+    "everyWeekday": "Every weekday"
+  },
+  "fields": {
+    "minute": "minute",
+    "hour": "hour",
+    "dayOfMonth": "day of month",
+    "month": "month",
+    "dayOfWeek": "day of week",
+    "minuteRange": "0-59",
+    "hourRange": "0-23",
+    "domRange": "1-31",
+    "monthRange": "1-12 (or JAN-DEC)",
+    "dowRange": "0-7 (0 and 7 are Sunday)"
+  },
+  "parse": {
+    "invalid": "Invalid cron expression (needs 5 fields)",
+    "every": "every {{field}}",
+    "any": "any {{field}}",
+    "everyN": "every {{n}} {{field}}s",
+    "everyNFrom": "every {{n}} {{field}}s starting at {{field}} {{start}}",
+    "fromTo": "from {{field}} {{start}} to {{field}} {{end}}",
+    "atList": "at {{field}}s {{list}}",
+    "at": "at {{field}} {{value}}",
+    "inMonth": "in {{month}}",
+    "onDay": "on {{day}}"
+  },
+  "months": {
+    "1": "January", "2": "February", "3": "March", "4": "April",
+    "5": "May", "6": "June", "7": "July", "8": "August",
+    "9": "September", "10": "October", "11": "November", "12": "December"
+  },
+  "days": {
+    "0": "Sunday", "1": "Monday", "2": "Tuesday", "3": "Wednesday",
+    "4": "Thursday", "5": "Friday", "6": "Saturday"
+  }
+}

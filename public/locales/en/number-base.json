@@ -1,0 +1,9 @@
+{
+  "binary": "Binary",
+  "octal": "Octal",
+  "decimal": "Decimal",
+  "hexadecimal": "Hexadecimal",
+  "baseLabel": "Base {{n}}",
+  "bitPattern": "Bit Pattern (8-bit groups)",
+  "invalidError": "Invalid {{base}} number"
+}

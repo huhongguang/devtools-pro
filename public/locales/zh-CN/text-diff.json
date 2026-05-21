@@ -1,0 +1,11 @@
+{
+  "modeChar": "字符",
+  "modeWord": "单词",
+  "modeLine": "行",
+  "modeLabel": "模式",
+  "originalLabel": "原文",
+  "modifiedLabel": "修改后",
+  "diffResultLabel": "差异结果",
+  "statsAdded": "+{{count}} 新增",
+  "statsRemoved": "-{{count}} 删除"
+}

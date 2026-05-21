@@ -1,0 +1,12 @@
+{
+  "currentTime": "当前时间",
+  "live": "实时",
+  "paused": "已暂停",
+  "useThis": "使用此时间戳 →",
+  "tsToDate": "时间戳 → 日期",
+  "dateToTs": "日期 → 时间戳",
+  "placeholderTs": "Unix 时间戳 (如 1700000000)",
+  "iso8601": "ISO 8601",
+  "unixSeconds": "Unix (秒)",
+  "unixMs": "Unix (毫秒)"
+}

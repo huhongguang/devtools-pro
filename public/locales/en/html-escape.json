@@ -1,0 +1,11 @@
+{
+  "modeEscape": "Escape",
+  "modeUnescape": "Unescape",
+  "inputLabelEscape": "HTML / Text",
+  "inputLabelUnescape": "Escaped HTML",
+  "resultLabel": "Result",
+  "commonEntities": "Common HTML Entities",
+  "colChar": "Char",
+  "colEntity": "Entity",
+  "colCode": "Code"
+}

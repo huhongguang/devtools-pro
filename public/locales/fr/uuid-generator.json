@@ -1,0 +1,8 @@
+{
+  "optionsLabel": "Options",
+  "versionLabel": "Version",
+  "countLabel": "Count",
+  "uppercaseLabel": "Uppercase",
+  "noDashesLabel": "No dashes",
+  "generatedCount": "{{count}} UUIDs generated"
+}

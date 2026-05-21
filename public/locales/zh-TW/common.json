@@ -1,0 +1,71 @@
+{
+  "app": {
+    "name": "DevTools Pro",
+    "tagline": "20 個開發者工具",
+    "description": "20 個必備開發者工具 — 全部免費、即時可用、純客戶端運行。",
+    "noSignup": "無需註冊，無追蹤，無後端。"
+  },
+  "nav": {
+    "allTools": "全部工具",
+    "searchPlaceholder": "搜尋工具...",
+    "searchResults": "結果 ({{count}})",
+    "hotBadge": "熱門"
+  },
+  "home": {
+    "mostUsed": "最常用",
+    "toolsReady": "{{count}} 個工具就緒",
+    "allRunLocally": "所有工具本地運行"
+  },
+  "actions": {
+    "copy": "複製",
+    "copied": "已複製",
+    "copyAll": "全部複製",
+    "copiedAll": "已全部複製",
+    "save": "儲存",
+    "clear": "清空",
+    "swap": "互換",
+    "generate": "生成",
+    "convert": "轉換",
+    "format": "格式化",
+    "encode": "編碼",
+    "decode": "解碼",
+    "process": "處理",
+    "preview": "預覽",
+    "compare": "比較",
+    "parse": "解析",
+    "insert": "插入"
+  },
+  "status": {
+    "validJson": "✓ JSON 有效",
+    "minified": "✓ 已壓縮",
+    "keysSorted": "✓ 鍵已排序",
+    "noMatches": "無匹配",
+    "matches_one": "{{count}} 個匹配",
+    "matches_other": "{{count}} 個匹配",
+    "converted": "✓ 已轉換",
+    "formatted": "✓ 已格式化"
+  },
+  "language": {
+    "label": "語言",
+    "en": "English",
+    "zh-CN": "简体中文",
+    "zh-TW": "繁體中文",
+    "ja": "日本語",
+    "ko": "한국어",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ru": "Русский",
+    "vi": "Tiếng Việt",
+    "ar": "العربية"
+  },
+  "share": {
+    "copyUrl": "複製連結",
+    "urlCopied": "連結已複製",
+    "shareToWeibo": "分享到微博",
+    "shareToTwitter": "分享到 X",
+    "shareToFacebook": "分享到 Facebook",
+    "shareToLinkedIn": "分享到 LinkedIn",
+    "bookmark": "收藏本頁",
+    "bookmarkHint": "按 {{shortcut}} 收藏本頁"
+  }
+}

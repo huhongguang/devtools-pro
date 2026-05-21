@@ -1,0 +1,30 @@
+{
+  "categories": {
+    "encode": "Кодирование/Декодирование",
+    "format": "Форматирование/Анализ",
+    "generate": "Генерация",
+    "convert": "Конвертация",
+    "text": "Текст",
+    "web": "Веб/Сеть"
+  },
+  "json-formatter": { "name": "JSON Форматтер", "description": "Форматирование, проверка и сжатие JSON" },
+  "base64": { "name": "Base64", "description": "Кодирование и декодирование Base64" },
+  "timestamp": { "name": "Метка времени", "description": "Конвертация Unix-меток времени в даты" },
+  "regex-tester": { "name": "Тестер Regex", "description": "Тестирование и отладка регулярных выражений" },
+  "url-encode": { "name": "URL Кодирование", "description": "Кодирование и декодирование URL-компонентов" },
+  "hash-generator": { "name": "Генератор хешей", "description": "Генерация хешей MD5, SHA-1, SHA-256" },
+  "jwt-decoder": { "name": "JWT Декодер", "description": "Декодирование и анализ JWT-токенов" },
+  "cron-parser": { "name": "Cron Выражение", "description": "Разбор и объяснение Cron-выражений" },
+  "uuid-generator": { "name": "UUID Генератор", "description": "Массовая генерация UUID v4" },
+  "html-escape": { "name": "HTML Экранирование", "description": "Экранирование HTML-символов" },
+  "color-converter": { "name": "Конвертер цветов", "description": "Конвертация HEX, RGB, HSL" },
+  "number-base": { "name": "Система счисления", "description": "Конвертация между системами 2/8/10/16" },
+  "yaml-json": { "name": "YAML ↔ JSON", "description": "Конвертация между YAML и JSON" },
+  "markdown-preview": { "name": "Предпросмотр Markdown", "description": "Рендеринг Markdown в реальном времени" },
+  "code-formatter": { "name": "Форматтер кода", "description": "Форматирование и сжатие JS/CSS/HTML" },
+  "text-diff": { "name": "Сравнение текста", "description": "Сравнение двух текстов с подсветкой различий" },
+  "image-base64": { "name": "Изображение → Base64", "description": "Конвертация изображений в Base64" },
+  "password-gen": { "name": "Генератор паролей", "description": "Генерация безопасных случайных паролей" },
+  "http-status": { "name": "HTTP Коды статуса", "description": "Полный справочник кодов HTTP-ответов" },
+  "number-format": { "name": "Формат числа", "description": "Форматирование чисел в различных стилях" }
+}

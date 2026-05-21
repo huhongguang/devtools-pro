@@ -1,0 +1,71 @@
+{
+  "app": {
+    "name": "DevTools Pro",
+    "tagline": "٢٠ أداة للمطورين",
+    "description": "٢٠ أداة أساسية للمطورين — مجانية، فورية، تعمل على المتصفح.",
+    "noSignup": "لا تسجيل، لا تتبع، لا خادم."
+  },
+  "nav": {
+    "allTools": "جميع الأدوات",
+    "searchPlaceholder": "البحث في الأدوات...",
+    "searchResults": "النتائج ({{count}})",
+    "hotBadge": "شائع"
+  },
+  "home": {
+    "mostUsed": "الأكثر استخداماً",
+    "toolsReady": "{{count}} أداة جاهزة",
+    "allRunLocally": "جميع الأدوات تعمل محلياً"
+  },
+  "actions": {
+    "copy": "نسخ",
+    "copied": "تم النسخ",
+    "copyAll": "نسخ الكل",
+    "copiedAll": "تم نسخ الكل",
+    "save": "حفظ",
+    "clear": "مسح",
+    "swap": "تبديل",
+    "generate": "توليد",
+    "convert": "تحويل",
+    "format": "تنسيق",
+    "encode": "ترميز",
+    "decode": "فك الترميز",
+    "process": "معالجة",
+    "preview": "معاينة",
+    "compare": "مقارنة",
+    "parse": "تحليل",
+    "insert": "إدراج"
+  },
+  "status": {
+    "validJson": "✓ JSON صالح",
+    "minified": "✓ مضغوط",
+    "keysSorted": "✓ المفاتيح مرتبة",
+    "noMatches": "لا توجد تطابقات",
+    "matches_one": "{{count}} تطابق",
+    "matches_other": "{{count}} تطابقات",
+    "converted": "✓ تم التحويل",
+    "formatted": "✓ تم التنسيق"
+  },
+  "language": {
+    "label": "اللغة",
+    "en": "English",
+    "zh-CN": "简体中文",
+    "zh-TW": "繁體中文",
+    "ja": "日本語",
+    "ko": "한국어",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ru": "Русский",
+    "vi": "Tiếng Việt",
+    "ar": "العربية"
+  },
+  "share": {
+    "copyUrl": "نسخ الرابط",
+    "urlCopied": "تم نسخ الرابط",
+    "shareToWeibo": "مشاركة على ويبو",
+    "shareToTwitter": "مشاركة على X",
+    "shareToFacebook": "مشاركة على فيسبوك",
+    "shareToLinkedIn": "مشاركة على لينكدإن",
+    "bookmark": "إضافة إلى المفضلة",
+    "bookmarkHint": "اضغط {{shortcut}} لإضافة إلى المفضلة"
+  }
+}

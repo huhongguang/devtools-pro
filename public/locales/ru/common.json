@@ -1,0 +1,71 @@
+{
+  "app": {
+    "name": "DevTools Pro",
+    "tagline": "20 инструментов разработчика",
+    "description": "20 незаменимых инструментов — бесплатно, мгновенно, на стороне клиента.",
+    "noSignup": "Без регистрации, без отслеживания, без бэкенда."
+  },
+  "nav": {
+    "allTools": "Все инструменты",
+    "searchPlaceholder": "Поиск инструментов...",
+    "searchResults": "Результаты ({{count}})",
+    "hotBadge": "ПОПУЛЯРНО"
+  },
+  "home": {
+    "mostUsed": "Часто используемые",
+    "toolsReady": "{{count}} инструментов готово",
+    "allRunLocally": "Все инструменты работают локально"
+  },
+  "actions": {
+    "copy": "Копировать",
+    "copied": "Скопировано",
+    "copyAll": "Копировать всё",
+    "copiedAll": "Всё скопировано",
+    "save": "Сохранить",
+    "clear": "Очистить",
+    "swap": "Поменять",
+    "generate": "Генерировать",
+    "convert": "Конвертировать",
+    "format": "Форматировать",
+    "encode": "Кодировать",
+    "decode": "Декодировать",
+    "process": "Обработать",
+    "preview": "Просмотр",
+    "compare": "Сравнить",
+    "parse": "Разобрать",
+    "insert": "Вставить"
+  },
+  "status": {
+    "validJson": "✓ JSON корректен",
+    "minified": "✓ Минифицирован",
+    "keysSorted": "✓ Ключи отсортированы",
+    "noMatches": "Совпадений нет",
+    "matches_one": "{{count}} совпадение",
+    "matches_other": "{{count}} совпадений",
+    "converted": "✓ Конвертировано",
+    "formatted": "✓ Отформатировано"
+  },
+  "language": {
+    "label": "Язык",
+    "en": "English",
+    "zh-CN": "简体中文",
+    "zh-TW": "繁體中文",
+    "ja": "日本語",
+    "ko": "한국어",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ru": "Русский",
+    "vi": "Tiếng Việt",
+    "ar": "العربية"
+  },
+  "share": {
+    "copyUrl": "Копировать URL",
+    "urlCopied": "URL скопирован",
+    "shareToWeibo": "Поделиться в Weibo",
+    "shareToTwitter": "Поделиться в X",
+    "shareToFacebook": "Поделиться в Facebook",
+    "shareToLinkedIn": "Поделиться в LinkedIn",
+    "bookmark": "Добавить в закладки",
+    "bookmarkHint": "Нажмите {{shortcut}} чтобы добавить в закладки"
+  }
+}

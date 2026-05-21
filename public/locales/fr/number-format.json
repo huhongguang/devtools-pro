@@ -1,0 +1,17 @@
+{
+  "placeholder": "Enter a number...",
+  "labels": {
+    "commaSeparated": "Comma separated",
+    "fixed2": "Fixed 2 decimals",
+    "scientific": "Scientific",
+    "percentage": "Percentage",
+    "currencyUSD": "Currency (USD)",
+    "currencyCNY": "Currency (CNY)",
+    "chineseNormal": "Chinese (普通)",
+    "chineseCapital": "Chinese (大写)",
+    "binary": "Binary",
+    "hexadecimal": "Hexadecimal",
+    "octal": "Octal",
+    "bytes": "Bytes"
+  }
+}
