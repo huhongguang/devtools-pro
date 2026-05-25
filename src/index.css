@@ -56,10 +56,11 @@
 
 @layer base {
   * { @apply border-border; }
+  html { font-size: 17px; }
   body {
     @apply bg-background text-foreground;
     font-family: 'Inter', 'Noto Sans Arabic', -apple-system, BlinkMacSystemFont, sans-serif;
-    font-size: 14px;
+    font-size: 15px;
     line-height: 1.6;
     -webkit-font-smoothing: antialiased;
   }
@@ -102,7 +103,7 @@
 
   .code-area {
     font-family: 'JetBrains Mono', monospace;
-    font-size: 13px;
+    font-size: 14px;
     line-height: 1.65;
     background: hsl(var(--muted));
     border: 1px solid hsl(var(--border));
@@ -128,7 +129,7 @@
     gap: 0.625rem;
     padding: 0.5rem 0.75rem;
     border-radius: 0.5rem;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 500;
     color: hsl(var(--muted-foreground));
     cursor: pointer;
@@ -146,7 +147,7 @@
   }
 
   .badge-category {
-    font-size: 10px;
+    font-size: 11px;
     font-weight: 600;
     letter-spacing: 0.05em;
     text-transform: uppercase;
@@ -162,7 +163,7 @@
     background: hsl(var(--primary));
     color: hsl(var(--primary-foreground));
     border-radius: calc(var(--radius) - 2px);
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 600;
     cursor: pointer;
     border: none;
@@ -180,7 +181,7 @@
     background: transparent;
     color: hsl(var(--muted-foreground));
     border-radius: calc(var(--radius) - 2px);
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 500;
     cursor: pointer;
     border: 1px solid hsl(var(--border));
