@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { Routes, Route, Navigate } from 'react-router-dom'
 import Sidebar from '@/components/layout/Sidebar'
 import HomePage from '@/pages/HomePage'
@@ -26,10 +26,14 @@ import HttpStatus from '@/tools/HttpStatus'
 import NumberFormat from '@/tools/NumberFormat'
 
 export default function App() {
-  const [dark, setDark] = useState(true)
+  const [dark, setDark] = useState(false)
+
+  useEffect(() => {
+    document.documentElement.classList.toggle('dark', dark)
+  }, [dark])
 
   return (
-    <div className={dark ? 'dark' : ''} style={{ height: '100vh', display: 'flex', overflow: 'hidden', background: 'hsl(224 15% 7%)' }}>
+    <div style={{ height: '100vh', display: 'flex', overflow: 'hidden' }}>
       <Sidebar darkMode={dark} onToggleDark={() => setDark(d => !d)} />
       <main className="flex-1 overflow-hidden">
         <Routes>
