@@ -6,7 +6,7 @@ import { CATEGORIES, TOOLS, type Category } from '@/lib/tools'
 import ShareBookmarkBar from './ShareBookmarkBar'
 import SEOHead from '@/components/seo/SEOHead'
 
-const SITE_URL = 'https://devtools-ashy-nine.vercel.app'
+const SITE_URL = 'https://www.devtoolspro.app'
 
 interface ToolLayoutProps {
   name: string

@@ -1,6 +1,6 @@
 import { Helmet } from 'react-helmet-async'
 
-const SITE_URL = 'https://devtools-ashy-nine.vercel.app'
+const SITE_URL = 'https://www.devtoolspro.app'
 const SITE_NAME = 'DevTools Pro'
 
 interface SEOHeadProps {

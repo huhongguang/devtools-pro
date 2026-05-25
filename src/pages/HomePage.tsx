@@ -4,7 +4,7 @@ import { TOOLS, CATEGORIES, type Category } from '@/lib/tools'
 import { Zap, TrendingUp } from 'lucide-react'
 import SEOHead from '@/components/seo/SEOHead'
 
-const SITE_URL = 'https://devtools-ashy-nine.vercel.app'
+const SITE_URL = 'https://www.devtoolspro.app'
 const categoryOrder: Category[] = ['format', 'encode', 'generate', 'convert', 'text', 'web']
 
 const homeJsonLd = {

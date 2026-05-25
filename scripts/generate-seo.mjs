@@ -1,7 +1,7 @@
 import { readFileSync, writeFileSync, mkdirSync } from 'fs'
 import { resolve, dirname } from 'path'
 
-const SITE_URL = 'https://devtools-ashy-nine.vercel.app'
+const SITE_URL = 'https://www.devtoolspro.app'
 
 const TOOLS = [
   { id: 'json-formatter', name: 'JSON Formatter', description: 'Format, validate and minify JSON data', category: 'format', keywords: ['json', 'format', 'validate', 'minify', 'pretty'] },

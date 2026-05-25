@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /locales/
 
-Sitemap: https://devtools-ashy-nine.vercel.app/sitemap.xml
+Sitemap: https://www.devtoolspro.app/sitemap.xml
