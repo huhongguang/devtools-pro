@@ -9,7 +9,7 @@
   },
   "json-formatter": { "name": "JSONフォーマッター", "description": "JSONデータのフォーマット・検証・圧縮" },
   "base64": { "name": "Base64", "description": "Base64文字列のエンコード・デコード" },
-  "timestamp": { "name": "タイムスタンプ", "description": "Unixタイムスタンプと日付の変換" },
+  "timestamp": { "name": "タイムスタンプ", "description": "ライブ時計、タイムゾーンマップ、Unixタイムスタンプと日付の双方向変換" },
   "regex-tester": { "name": "正規表現テスター", "description": "正規表現のテストとデバッグ" },
   "url-encode": { "name": "URLエンコード/デコード", "description": "URLコンポーネントのエンコード・デコード" },
   "hash-generator": { "name": "ハッシュ生成", "description": "MD5・SHA-1・SHA-256ハッシュ値の生成" },

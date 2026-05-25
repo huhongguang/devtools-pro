@@ -9,7 +9,7 @@
   },
   "json-formatter": { "name": "JSON 格式化", "description": "格式化、验证和压缩 JSON 数据" },
   "base64": { "name": "Base64", "description": "Base64 字符串编码与解码" },
-  "timestamp": { "name": "时间戳", "description": "Unix 时间戳与日期互转" },
+  "timestamp": { "name": "时间戳", "description": "实时时钟、时区地图、Unix 时间戳与日期双向转换" },
   "regex-tester": { "name": "正则测试", "description": "测试和调试正则表达式" },
   "url-encode": { "name": "URL 编码/解码", "description": "URL 组件编码与解码" },
   "hash-generator": { "name": "哈希生成", "description": "生成 MD5、SHA-1、SHA-256 哈希值" },

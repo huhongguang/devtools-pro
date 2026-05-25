@@ -9,7 +9,7 @@
   },
   "json-formatter": { "name": "JSON Форматтер", "description": "Форматирование, проверка и сжатие JSON" },
   "base64": { "name": "Base64", "description": "Кодирование и декодирование Base64" },
-  "timestamp": { "name": "Метка времени", "description": "Конвертация Unix-меток времени в даты" },
+  "timestamp": { "name": "Метка времени", "description": "Живые часы, карта часовых поясов, двустороннее преобразование меток/дат" },
   "regex-tester": { "name": "Тестер Regex", "description": "Тестирование и отладка регулярных выражений" },
   "url-encode": { "name": "URL Кодирование", "description": "Кодирование и декодирование URL-компонентов" },
   "hash-generator": { "name": "Генератор хешей", "description": "Генерация хешей MD5, SHA-1, SHA-256" },

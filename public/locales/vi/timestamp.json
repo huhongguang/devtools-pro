@@ -1,12 +1,17 @@
 {
-  "currentTime": "Current Time",
-  "live": "Live",
-  "paused": "Paused",
-  "useThis": "Use this timestamp →",
-  "tsToDate": "Timestamp → Date",
-  "dateToTs": "Date → Timestamp",
-  "placeholderTs": "Unix timestamp (e.g. 1700000000)",
+  "currentTime": "Thờ gian hiện tại",
+  "live": "Trực tiếp",
+  "paused": "Đã tạm dừng",
+  "useThis": "Sử dụng timestamp này →",
+  "tsToDate": "Timestamp → Ngày",
+  "dateToTs": "Ngày → Timestamp",
+  "placeholderTs": "Unix timestamp (v.d. 1700000000)",
+  "placeholderTsMs": "Unix timestamp mili giây (v.d. 1700000000000)",
+  "utcTime": "UTC",
+  "localTime": "Giờ địa phương",
+  "addTimestamp": "Thêm timestamp",
+  "addDate": "Thêm ngày",
   "iso8601": "ISO 8601",
-  "unixSeconds": "Unix (seconds)",
-  "unixMs": "Unix (ms)"
+  "unixSeconds": "Unix (giây)",
+  "unixMs": "Unix (mili giây)"
 }

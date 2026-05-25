@@ -9,7 +9,7 @@
   },
   "json-formatter": { "name": "JSON-Formatierer", "description": "JSON-Daten formatieren, validieren und minimieren" },
   "base64": { "name": "Base64", "description": "Base64-Strings kodieren und dekodieren" },
-  "timestamp": { "name": "Zeitstempel", "description": "Unix-Zeitstempel in Daten umwandeln" },
+  "timestamp": { "name": "Zeitstempel", "description": "Live-Uhr, Zeitzonenkarte, bidirektionale Unix-Zeitstempel/Datum-Konvertierung" },
   "regex-tester": { "name": "Regex-Tester", "description": "Reguläre Ausdrücke testen und debuggen" },
   "url-encode": { "name": "URL-Kodierung", "description": "URL-Komponenten kodieren und dekodieren" },
   "hash-generator": { "name": "Hash-Generator", "description": "MD5-, SHA-1-, SHA-256-Hashes generieren" },

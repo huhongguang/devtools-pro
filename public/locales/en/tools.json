@@ -9,7 +9,7 @@
   },
   "json-formatter": { "name": "JSON Formatter", "description": "Format, validate and minify JSON data" },
   "base64": { "name": "Base64", "description": "Encode and decode Base64 strings" },
-  "timestamp": { "name": "Timestamp", "description": "Convert Unix timestamps to dates" },
+  "timestamp": { "name": "Timestamp", "description": "Live clock, timezone map, bidirectional Unix timestamp and date conversion" },
   "regex-tester": { "name": "Regex Tester", "description": "Test and debug regular expressions" },
   "url-encode": { "name": "URL Encode/Decode", "description": "Encode and decode URL components" },
   "hash-generator": { "name": "Hash Generator", "description": "Generate MD5, SHA-1, SHA-256 hashes" },

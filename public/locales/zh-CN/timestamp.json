@@ -6,6 +6,11 @@
   "tsToDate": "时间戳 → 日期",
   "dateToTs": "日期 → 时间戳",
   "placeholderTs": "Unix 时间戳 (如 1700000000)",
+  "placeholderTsMs": "Unix 时间戳毫秒 (如 1700000000000)",
+  "utcTime": "UTC 时间",
+  "localTime": "本地时间",
+  "addTimestamp": "添加时间戳",
+  "addDate": "添加日期",
   "iso8601": "ISO 8601",
   "unixSeconds": "Unix (秒)",
   "unixMs": "Unix (毫秒)"

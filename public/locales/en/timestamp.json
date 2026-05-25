@@ -6,6 +6,11 @@
   "tsToDate": "Timestamp → Date",
   "dateToTs": "Date → Timestamp",
   "placeholderTs": "Unix timestamp (e.g. 1700000000)",
+  "placeholderTsMs": "Unix timestamp ms (e.g. 1700000000000)",
+  "utcTime": "UTC",
+  "localTime": "Local",
+  "addTimestamp": "Add Timestamp",
+  "addDate": "Add Date",
   "iso8601": "ISO 8601",
   "unixSeconds": "Unix (seconds)",
   "unixMs": "Unix (ms)"

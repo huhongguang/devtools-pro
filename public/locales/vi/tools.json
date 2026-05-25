@@ -9,7 +9,7 @@
   },
   "json-formatter": { "name": "Định dạng JSON", "description": "Định dạng, xác thực và thu nhỏ dữ liệu JSON" },
   "base64": { "name": "Base64", "description": "Mã hóa và giải mã chuỗi Base64" },
-  "timestamp": { "name": "Dấu thời gian", "description": "Chuyển đổi Unix timestamp sang ngày tháng" },
+  "timestamp": { "name": "Dấu thờ gian", "description": "Đồng hồ trực tiếp, bản đồ múi giờ, chuyển đổi hai chiều timestamp/ngày" },
   "regex-tester": { "name": "Kiểm tra Regex", "description": "Kiểm tra và gỡ lỗi biểu thức chính quy" },
   "url-encode": { "name": "Mã hóa URL", "description": "Mã hóa và giải mã các thành phần URL" },
   "hash-generator": { "name": "Tạo Hash", "description": "Tạo hash MD5, SHA-1, SHA-256" },

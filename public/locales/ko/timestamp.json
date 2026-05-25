@@ -1,12 +1,17 @@
 {
-  "currentTime": "Current Time",
-  "live": "Live",
-  "paused": "Paused",
-  "useThis": "Use this timestamp →",
-  "tsToDate": "Timestamp → Date",
-  "dateToTs": "Date → Timestamp",
-  "placeholderTs": "Unix timestamp (e.g. 1700000000)",
+  "currentTime": "현재 시간",
+  "live": "실시간",
+  "paused": "일시 정지",
+  "useThis": "이 타임스탬프 사용 →",
+  "tsToDate": "타임스탬프 → 날짜",
+  "dateToTs": "날짜 → 타임스탬프",
+  "placeholderTs": "Unix 타임스탬프 (예: 1700000000)",
+  "placeholderTsMs": "Unix 타임스탬프 (밀리초) (예: 1700000000000)",
+  "utcTime": "UTC 시간",
+  "localTime": "현지 시간",
+  "addTimestamp": "타임스탬프 추가",
+  "addDate": "날짜 추가",
   "iso8601": "ISO 8601",
-  "unixSeconds": "Unix (seconds)",
-  "unixMs": "Unix (ms)"
+  "unixSeconds": "Unix (초)",
+  "unixMs": "Unix (밀리초)"
 }

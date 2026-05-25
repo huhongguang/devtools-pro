@@ -9,7 +9,7 @@
   },
   "json-formatter": { "name": "منسق JSON", "description": "تنسيق وتحقق وضغط بيانات JSON" },
   "base64": { "name": "Base64", "description": "ترميز وفك ترميز سلاسل Base64" },
-  "timestamp": { "name": "الطابع الزمني", "description": "تحويل طوابع Unix الزمنية إلى تواريخ" },
+  "timestamp": { "name": "الطابع الزمني", "description": "ساعة مباشرة، خريطة المناطق الزمنية، تحويل ثنائي الاتجاه للطوابع/التواريخ" },
   "regex-tester": { "name": "اختبار Regex", "description": "اختبار وتصحيح التعبيرات النمطية" },
   "url-encode": { "name": "ترميز URL", "description": "ترميز وفك ترميز مكونات URL" },
   "hash-generator": { "name": "مولد Hash", "description": "توليد تجزئة MD5 وSHA-1 وSHA-256" },
