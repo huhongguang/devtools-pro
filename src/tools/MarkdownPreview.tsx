@@ -69,7 +69,7 @@ export default function MarkdownPreview() {
               <div
                 className="flex-1 p-4 rounded-lg border border-border bg-muted overflow-y-auto scrollbar-thin prose-devtools"
                 dangerouslySetInnerHTML={{ __html: html }}
-                style={{ color: 'hsl(213 31% 91%)', fontSize: '14px', lineHeight: 1.7 }}
+                style={{ color: 'hsl(var(--foreground))', fontSize: '14px', lineHeight: 1.7 }}
               />
             </div>
           )}

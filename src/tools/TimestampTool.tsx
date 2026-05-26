@@ -96,7 +96,7 @@ export default function TimestampTool() {
 
   // Add/remove TS rows
   const addTsRow = () => {
-    if (tsRows.length >= 10) return
+    if (tsRows.length >= 6) return
     setTsRows(rows => [...rows, { id: genId(), input: '', result: null }])
   }
   const removeTsRow = (id: string) => {
@@ -106,7 +106,7 @@ export default function TimestampTool() {
 
   // Add/remove Date rows
   const addDateRow = () => {
-    if (dateRows.length >= 10) return
+    if (dateRows.length >= 3) return
     setDateRows(rows => [...rows, { id: genId(), input: '', result: null, calendarOpen: false, dateOnly: '' }])
   }
   const removeDateRow = (id: string) => {
@@ -207,7 +207,7 @@ export default function TimestampTool() {
                 </div>
               ))}
             </div>
-            {tsRows.length < 10 && (
+            {tsRows.length < 6 && (
               <button className="btn-ghost mt-3 text-xs w-full" onClick={addTsRow}>
                 <Plus size={11} /> {t('timestamp:addTimestamp', 'Add Timestamp')}
               </button>
@@ -273,7 +273,7 @@ export default function TimestampTool() {
               </div>
             ))}
           </div>
-          {dateRows.length < 10 && (
+          {dateRows.length < 3 && (
             <button className="btn-ghost mt-3 text-xs w-full" onClick={addDateRow}>
               <Plus size={11} /> {t('timestamp:addDate', 'Add Date')}
             </button>
