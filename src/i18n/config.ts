@@ -18,9 +18,7 @@ i18n
       loadPath: '/locales/{{lng}}/{{ns}}.json',
     },
     detection: {
-      order: ['localStorage', 'navigator'],
-      lookupLocalStorage: 'devtools-lang',
-      caches: ['localStorage'],
+      order: ['navigator'],
     },
     interpolation: {
       escapeValue: false,
